@@ -78,8 +78,8 @@ Ask real business questions like an executive and get structured, actionable ans
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
-cd uae-advisor
+git clone https://github.com/nermeennedal/UAE-Agent-Advisor.git
+cd UAE-Agent-Advisor
 
 # 2. Create virtual environment
 python -m venv venv
