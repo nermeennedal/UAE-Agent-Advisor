@@ -20,8 +20,8 @@ console = Console()
 def print_banner():
     banner = """
 ╔══════════════════════════════════════════════════════════════════╗
-║       🍕 UAE Market Expansion Advisor 🥙                        ║
-║       Jordanian Restaurant — Dubai & Abu Dhabi Entry            ║
+║             🍕 UAE Market Expansion Advisor 🥙                  ║
+║       Jordanian Restaurant — Dubai & Abu Dhabi Entry             ║
 ╚══════════════════════════════════════════════════════════════════╝
     """
     console.print(Panel(banner.strip(), style="bold green"))
