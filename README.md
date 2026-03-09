@@ -135,7 +135,7 @@ Advisor: For kebab sandwiches in UAE, I recommend pricing at 28–45 AED...
 ##  Project Structure
 
 ```
-uae-advisor/
+UAE-Agent-Advisor/
 ├── main.py                  # CLI entry point
 ├── requirements.txt
 ├── .env.example
