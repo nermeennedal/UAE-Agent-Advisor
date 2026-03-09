@@ -68,14 +68,13 @@ Ask real business questions like an executive and get structured, actionable ans
 
 ---
 
-##  Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.10+
 - OpenAI API key
 
 ### Installation
-
 ```bash
 # 1. Clone the repository
 git clone https://github.com/nermeennedal/UAE-Agent-Advisor.git
@@ -91,8 +90,15 @@ pip install -r requirements.txt
 # 4. Set up environment
 cp .env.example .env
 # Edit .env and add your OPENAI_API_KEY
+```
 
-# 5. Run the advisor
+### Option 1: Web UI (Recommended)
+```bash
+streamlit run app.py
+```
+
+### Option 2: CLI
+```bash
 python main.py
 ```
 
